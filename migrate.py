@@ -18,7 +18,7 @@ WAIT = 0.5
 
 host = os.getenv("AIBLECODE_API_HOST")
 
-curr = (pathlib.Path(__file__).parent / "data").absolute()
+curr = (pathlib.Path(__file__).parent / "problem").absolute()
 
 token = requests.post(
     f"{host}/token",
