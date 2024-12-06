@@ -20,7 +20,7 @@ host = os.getenv("AIBLECODE_API_HOST")
 
 curr = (pathlib.Path(__file__).parent / "problem").absolute()
 
-token = requests.post(
+res = requests.post(
     f"{host}/token",
     data={
         "grant_type": "password",
@@ -28,7 +28,9 @@ token = requests.post(
         "password": ADMIN_PASSWORD,
         "scope": "",
     },
-).cookies
+)
+print(res)
+token = res.cookies
 time.sleep(WAIT)
 
 for category in glob.glob(f"{curr}/*"):
@@ -70,6 +72,7 @@ for category in glob.glob(f"{curr}/*"):
         problem_path = problem.replace(f"{category}/", "")
         title = problem_meta["problem"]["title"]
         statement = open(f"{problem}/statement.md").read()
+        level = problem_meta["problem"]["level"]
         time_limit = problem_meta["problem"]["time_limit"]
         memory_limit = problem_meta["problem"]["memory_limit"]
 
@@ -80,6 +83,7 @@ for category in glob.glob(f"{curr}/*"):
                 "title": title,
                 "statement": statement,
                 "category_path_id": category_path,
+                "level": level,
                 "time_limit": time_limit,
                 "memory_limit": memory_limit,
             },
