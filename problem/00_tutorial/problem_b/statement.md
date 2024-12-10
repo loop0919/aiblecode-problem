@@ -1,6 +1,7 @@
-## 問題文
+# 問題文
 八木山ベニーランドでは、年齢が $6$ 歳以上かつ身長が $120.0$ cm 以上の人のみが乗れるジェットコースターがあります。  
-中島くんの年齢 $A$ と身長 $H$ が与えられるので、中島くんがジェットコースターに乗れるか判定してください。
+
+中島くんの年齢 $A$ 歳と身長 $H$ cm が与えられるので、中島くんがジェットコースターに乗れるか判定してください。
 
 ## 制約
 - $A$ は $0$ 以上 $100$ 以下の整数
@@ -10,39 +11,95 @@
 ## 入力
 入力は以下の形式で標準入力から与えられます。
 
-$A \ H$
+$A$&emsp;$H$
 
+<details>
+<summary>入力のサンプルコード</summary>
+<div>
+与えられる入力を受け取るコードの一例です。
+
+```py
+A, H = input().split()
+A = int(A)
+H = float(H)
+# ここからコードを入力してください。
+
+```
+
+```java
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+
+        int A = sc.nextInt();
+        float H = sc.nextFloat();
+
+        /* # ここからコードを入力してください。 */
+    }
+}
+
+```
+</div>
+</details>
 
 ## 出力
-中島くんがジェットコースターに乗れるならば `Yes` 、乗れないならば `No` を標準出力から出力してください。
+中島くんがジェットコースターに乗れるならば <code>Yes</code> 、乗れないならば <code>No</code> を標準出力から出力してください。
 
+<details>
+<summary>出力のサンプルコード</summary>
+<div>
+文字列 <code>Yes</code> を出力するコードの一例です。
+
+```py
+print("Yes")
+
+```
+
+```java
+import java.util.Scanner;
+
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Yes");
+    }
+}
+
+```
+</div>
+</details>
 
 ## サンプル 1
 ### 入力例 1
 ```
 7 120.5
+
 ```
 
 ### 出力例 1
 ```
 Yes
+
 ```
 
-中島くんの年齢は $7$ 歳で身長は $120.5$ cm です。これはジェットコースターに乗れる条件を満たすため `Yes` と出力します。
+中島くんの年齢は $7$ 歳で身長は $120.5$ cm です。これはジェットコースターに乗れる条件を満たすため <code>Yes</code> と出力します。
 
 
 ## サンプル 2
 ### 入力例 2
 ```
 5 130.0
+
 ```
 
 ### 出力例 2
 ```
 No
+
 ```
 
-身長は条件を満たしていますが、年齢は満たしていません。`No` と出力します。
+身長は条件を満たしていますが、年齢は満たしていません。<code>No</code> と出力します。
 
 
 ## サンプル 3
