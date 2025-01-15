@@ -15,6 +15,6 @@ p = N
 
 while True:
     if is_prime(p) and is_prime(p + 2):
-        print(p)
+        print(p, p + 2)
         break
     p += 1

@@ -1,0 +1,13 @@
+Yes
+10 3
+2 4 4
+xxo
+oxx
+oxo
+xxo
+xox
+xoo
+ooo
+oox
+xoo
+xxo

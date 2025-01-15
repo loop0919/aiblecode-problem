@@ -70,6 +70,13 @@ for category in glob.glob(f"{curr}/*"):
             problem_meta = yaml.load(f, Loader=yaml.SafeLoader)
 
         problem_path = problem.replace(f"{category}/", "")
+        ignore = problem_meta["problem"].get("ignore", False)
+
+        if category_path == "10_algorithm" and problem_path == "problem_c":
+            pass
+        else:
+            continue
+
         title = problem_meta["problem"]["title"]
         statement = open(f"{problem}/statement.md").read()
         level = problem_meta["problem"]["level"]
@@ -97,6 +104,28 @@ for category in glob.glob(f"{curr}/*"):
             exit(1)
 
         print("Success to create problem:", problem_path)
+
+        judge = problem_meta["problem"].get("judge", None)
+
+        if judge:
+            res = requests.post(
+                f"{host}/set_judge",
+                json={
+                    "category_path_id": category_path,
+                    "problem_path_id": problem_path,
+                    "judge_type": judge,
+                    "code": open(f"{problem}/codes/judge.py").read(),
+                },
+                cookies=token,
+            )
+            time.sleep(WAIT)
+
+            if res.status_code != 200:
+                print(f"Failed to create judge: {problem_path}")
+                print(res.text)
+                exit(1)
+
+            print("Success to create judge:", problem_path)
 
         input_files = sorted(glob.glob(f"{problem}/testcases/in/*"))
         output_files = sorted(glob.glob(f"{problem}/testcases/out/*"))
