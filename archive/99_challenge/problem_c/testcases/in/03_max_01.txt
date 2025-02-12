@@ -1,0 +1,14 @@
+12 3
+1 3 8
+xxo
+xoo
+ooo
+ooo
+xoo
+ooo
+oox
+ooo
+ooo
+xoo
+xoo
+ooo

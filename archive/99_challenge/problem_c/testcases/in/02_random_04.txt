@@ -1,0 +1,8 @@
+6 3
+4 2 0
+oxo
+xoo
+xxo
+oox
+oox
+xxx
