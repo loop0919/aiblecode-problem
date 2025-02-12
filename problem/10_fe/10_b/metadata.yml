@@ -1,0 +1,5 @@
+problem:
+  title: 素数の列挙 # タイトル
+  level: 2 # 難易度[1から5までの整数]
+  time_limit: 2.0 # 制限時間[sec]
+  memory_limit: 256 # 制限メモリ[MB]

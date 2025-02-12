@@ -1,9 +1,0 @@
-Yes
-6 2
-3 3
-oo
-oo
-oo
-oo
-oo
-xo

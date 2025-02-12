@@ -1,5 +1,0 @@
-problem:
-  title: Effective Search
-  level: 3 # 難易度[1から5までの整数]
-  time_limit: 3.0 # 制限時間[sec]
-  memory_limit: 256 # 制限メモリ[MB]

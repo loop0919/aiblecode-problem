@@ -1,0 +1,201 @@
+100
+78 74
+-----o--oo--oo-ooo-ooooo-o------o--oo-o--o-o-o--ooo--ooo-ooo-oooo--oo----o-oo-
+56 4
+o-------oo-o-----o-ooooo----o--oooo----o-o--o--o--oo----
+91 47
+------o--oo--ooo-ooo-o-o-o-ooo----o-o-o----ooo--ooo---ooooo-o---oooo-oooo----ooo-------oo--
+92 54
+--oo-o-o-oooooo-o--oooo--ooooo-o-o--o--oooooooo--o-oo-oooooo---ooo-oo-o--o-oo-oo--o--o-oooo-
+5 4
+ooo--
+95 20
+-oo--ooo-oooooo-o--oooo-oo----oo-o-o---oooo-oo--oo-oooooooooo-o-oo-oo----o-----ooo----o----o-oo
+42 26
+o-oo-oooo---oo-ooo-o----oo---ooooo-ooo-oo-
+49 10
+o---ooo--o---ooo-o---ooo--oo-o--ooo--oooo-oo-oo-o
+51 45
+o----o-ooooooooo-o-oo-------o-ooo-o--oooo-o-oo---o-
+98 44
+-o-o---ooo--oo--oo----oo-oooo--oo---ooo-o-ooo--ooo--oo---o-o-oooo-o-o-o--ooooo-o-o-oo-o-oo--o-o--o
+22 15
+oo--ooo-o------oo-o---
+38 1
+---oo-o-----------ooooo-oooooo-o-o-o--
+11 3
+---o---oooo
+14 11
+oo-o-oo-o--o--
+68 22
+-o-------oo--oo-oo-ooo------o-ooo---oooo---oo-oo-o-----o---o-ooo--o-
+58 47
+oo--oo-oo--oo-o--o-oo--------oo-----ooooo-oo------o---oo-o
+65 34
+o--ooo-o---o--oo-ooo--oo--ooo---o----ooo-ooo-ooo---oo-oooooo-oo-o
+48 20
+-oooo-o---o-oo-o--oo---oooo--oooo--o-oo-ooo--oo-
+32 15
+o---oo--o--o--oo---o----ooo--oo-
+86 3
+----oo-o-----oooooooo--o-o-oo--oooooo-o--o-oo--o--o-oo--oo-o-oo----o-o-o-oo--o-----o--
+78 16
+oo-o----o--o--o-o-o--oo------o---o--oo-o--oo-o---o-o--ooo-oo--o--oo--ooo--o--o
+41 36
+oooooooo-o-oooooo-oooo-o-o----o-o-oo-oo--
+93 55
+-oo-ooo-o-o--ooo---ooo---oo--ooo-ooooo-o-o---o-oooo-oooo-ooo-o-o---ooo-o--oo-ooo-oo--o--ooo-o
+67 67
+oo--o-oo-o----ooo-o-oo--------o-o-o--o-o-----oo-oo-oooo---ooo-o--oo
+66 18
+oooo-ooo--o--oo---o--oo--o-o----o-oo--o----o---oo-ooooo--oo-----oo
+10 2
+-o--o---o-
+72 59
+-oooo-o-ooo-o-o--ooo--o----o----ooooo--o--ooo-----o----o--ooo---o---ooo-
+16 14
+--ooo-oooo-oo-oo
+82 62
+-oo--o-oo-o--o-oo--o---ooo--o-oo-o--o-oo-oo-oo-o--o-oooooo-oooooo-ooo-oo-oo---oo--
+23 19
+oo-ooo-o-o-ooo-----oo-o
+54 44
+-o--o-ooo-ooo------ooooo------oo-oo-o-o--oo----ooo--o-
+56 36
+oo--o-ooo-o-oo-oo-----oo-o--o-o--o----oooo-o----o---oooo
+63 23
+oo-----o-o-o----o---o-oo----oo-o-oo-ooo----ooo---o-o-o-o--o----
+85 8
+---o------o----oo---o-o--o-o-oooo---o--o-ooooo-o--oo--oo-----o--o---------ooooo-ooo-o
+81 73
+----oo-oo--o----o-ooo-----oo-ooo-----oo-ooo-oooo-o-o-oo-oo--ooo-oo-oooo-o---o-ooo
+100 100
+----oo-o--o-oo--oo--oo---oo-o-o-o-ooooo---oo-o--o----oo--o------oo--o--oo-ooo--o-oo-o-oo--oo-oo--oo-
+43 42
+ooo-oooo-oo----o---o-o-----o--o-o-----o---o
+15 10
+-oooo-o-o---o--
+80 9
+-o-ooooooo-----oooo-ooooooo--oo--o-ooo--o--o---oo-oo---o--o-o-oo-oo-o-o-oo-ooo--
+98 52
+o--o--o-oo--oooooooo----oo--o-ooooo-----------o---o-oooo--oo-o--oo-ooooo--oo-o-o---oo--oo--o---o--
+17 5
+--oooooo---o-oooo
+85 21
+oooo--oo-ooo--oo---oo-o--o---oo------o--oooo-ooo-o-oo-o-oooo-oo--oo-o---o-ooo--ooooo-
+87 57
+o--o--oooo--o--oo-o---ooo--oo-o-oooooo--o--o-oo-o--oo-o-----oo---o----ooooooo-o------oo
+22 20
+o-o---oo-------oooo--o
+48 43
+o---o-ooo---o---o-ooo----oo-oo-oo-ooo--o---ooo--
+82 62
+-ooooo-------ooooo-o-oooooooooooo-ooooo--ooo-----------oo-o---ooo-ooo-o---o---o---
+4 4
+o-oo
+66 50
+o-o-oo--oooooooooooo-ooo--oo--o--oo---o--o-oo--o-oooo----o---o--oo
+36 13
+o--oo--o-ooo--o-ooo------o-oooo--ooo
+52 17
+o--oooo-o-o-------ooo--ooo-----o---ooooooooo-o-ooo--
+44 2
+o-o-o---oo--oo-oooo-oooo--oooo-o-o-o--oo-o--
+85 38
+oo--o-o-oooo-o-ooo--oo-ooo----oooo-oooo----oo---o--o-oo--oo-o-ooo--oooo-o--oooo---ooo
+74 70
+-o-----o-ooo-o-o-ooo----oo--o-ooo-o---oo-o-o-o-ooooo-oo-o--o-oo--o-ooo----
+34 25
+-o-oo---o-oo-oo-o-o-o-o-oo------o-
+8 4
+--oo-ooo
+11 6
+oo--ooo-oo-
+99 16
+---ooo---oo-o--oo----oo-o--o-oo--o-o-o---ooooo--o-----o--o-o-o-oooo----oo--o----o-o--ooo-ooo----o--
+78 75
+o-o--o--o---o-o--o----o----ooooo--oo-oo--o-----ooo--o-------o-oo-o-oooo-o-o-o-
+86 4
+----o---o--oo-o--o--o-oo-o-o--o---oooo-ooooo-o--o-o-oo-o--oo-ooooo--oo-ooo-o-o--ooo-o-
+53 13
+---oo-oo--o-o--ooo-oo-o-oo-o-o-oo-oo----o---o--o-o--o
+82 6
+-----o--o-o---oo---o--oo--o-ooo-o-o-o-o-o-oo-o----o-oooooo----o-ooo--ooo-oooo-ooo-
+90 74
+--o--o-o------o-o-oo----ooo--------o-o-----ooo-o------o-ooo----o-----ooo---o-ooo----o-o--o
+3 1
+-o-
+95 14
+-oooo-oo----o-oo----oo--oo-o--ooo-o-oo--o-o-----oo-oooo---o---ooo-o-o-o-o--o-o--oo-o------ooo-o
+27 13
+--o----------oo--o-o--ooo-o
+29 14
+o---ooo-o-ooo---oo-o-o-o--o-o
+89 17
+---o--oo-oooo---o-oooo-o-oo------ooo-o-oo---o--oo-oo-oo---o--oo-----ooooo--o--oo-o-oo--o-
+59 40
+o-o-oo-oooo--oo-ooo-o-oo--ooo---o-oo-o--o-oo---o-oo-oo-----
+47 25
+---oo--o-ooooooo--oo--o--oo--oo---oo--o--o---oo
+79 6
+-o-o--o-oo-oo-o---oo-o---ooooo--o--o-oo-ooo-o--o------o-o--o---ooo-oooo-----oo-
+33 9
+------o--o-o-oo--o-o-o-oo--o-o-o-
+65 5
+---ooooooo--o-----ooo---o-ooo----o-ooo-oo----ooo-oo--o--ooo-----o
+23 16
+o----ooooo--oo--oo---o-
+32 27
+o---o-ooo-o-o-----o--ooo-----o-o
+18 7
+o--o---o-ooo-ooooo
+2 1
+o-
+10 8
+oo--oo-ooo
+35 12
+--ooo-o-oo-oooooooo---oo-o-oo-o--o-
+51 44
+oo-o-ooooo-oooo-oo---oooo--o-oo--ooooooo--oo-oo---o
+70 21
+oooo--o------oo---ooo----ooooooo-o--o-o---o-o-----o--o--oo----o-oo----
+8 2
+--ooo---
+40 18
+o---ooo----oooo-oo-ooo-o--o-oo----oooo--
+64 4
+----oo--o-o-o---ooo---ooo--oo----oo---oo---oooo-ooo-ooo-o-oo-ooo
+84 16
+o-oo-oo--o--o---ooo-o---o--------o---ooo-ooooo--o-o------ooo--o---oo----o-o-o-oo-o--
+29 24
+----o--oooo-oo--o--o-oo-o-ooo
+66 17
+o---o---o---oo-----oooo--oooo----o-------o-o--o--ooo-oo--oo-ooo---
+51 13
+---ooooo----oo-oo-------oo--o-o--o-oooooo--o---oo--
+66 36
+-oo----o--ooo-o---oo-o-ooo--ooo-ooo--o--ooo-oo-oo--oo-ooo--ooo--oo
+99 82
+o-oo-oo--o-o--oooo--o----o-ooo--oooo--o--o-o-o-oo--o-oo-oooo---o-ooo-ooo--o----oo-o-oo--oo-ooo---oo
+12 11
+oo-oo-ooo-oo
+84 61
+--oooo-ooo-o----o-oooo---oo----o-oo-o-o----ooo--oo-ooo-----ooooo-o-o-ooo-o-o---o-oo-
+65 42
+oo-o--o--o-ooooooo-o-o-o-o-ooo----oo---oooo-oooooo----oo-o-o---oo
+46 40
+o--oo-oooooo--o-o-----oo-oo-o---oo-oo----o-o-o
+67 10
+-oo-oo-o-o-ooo-----o-o-oo---ooooo-ooo--o-oo--oooo-o----ooooo----ooo
+85 82
+oo-o---o---ooo--o-ooooo-o-oo-oooo----o-o--ooo---o-o--o-o---oo--oo-oo-o-o-oo--oooo--oo
+79 26
+oo--o---o--oo-ooooooooo-o-o-oo---o-o-oo---ooo-o-oo---o--o-oo-oo-oooo-o-o--o--o-
+2 2
+-o
+60 16
+--o-oo----o---o-o-oooo-----oo--oooo-oo-----oo--o--oo--o--ooo
+20 2
+oo-oo-o-o-o-o-o-----
+54 22
+-ooo---oo--oo-----ooo--ooo-o---ooo-o----ooo-oo-ooo---o

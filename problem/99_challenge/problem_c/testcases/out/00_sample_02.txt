@@ -1,9 +1,0 @@
-No
-6 3
-3 2 1
-xxo
-oxx
-oxo
-xxo
-xox
-xoo

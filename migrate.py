@@ -14,7 +14,7 @@ load_dotenv(dotenv_path)
 ADMIN_USERNAME = os.getenv("ADMIN_USERNAME")
 ADMIN_PASSWORD = os.getenv("ADMIN_PASSWORD")
 
-WAIT = 0.5
+WAIT = 0.1
 
 host = os.getenv("AIBLECODE_API_HOST")
 
@@ -71,11 +71,6 @@ for category in glob.glob(f"{curr}/*"):
 
         problem_path = problem.replace(f"{category}/", "")
         ignore = problem_meta["problem"].get("ignore", False)
-
-        if category_path == "10_algorithm" and problem_path == "problem_c":
-            pass
-        else:
-            continue
 
         title = problem_meta["problem"]["title"]
         statement = open(f"{problem}/statement.md").read()
