@@ -1,0 +1,7 @@
+3
+7 2
+-o--oo-
+9 4
+-ooooooo-
+21 5
+o-o-ooo-o-o-o-ooo-o-o

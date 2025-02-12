@@ -1,0 +1,201 @@
+100
+5 1
+-oo-o
+5 2
+-oo-o
+5 3
+-oo-o
+5 4
+-oo-o
+5 5
+-oo-o
+5 1
+o--oo
+5 2
+o--oo
+5 3
+o--oo
+5 4
+o--oo
+5 5
+o--oo
+5 1
+-o-oo
+5 2
+-o-oo
+5 3
+-o-oo
+5 4
+-o-oo
+5 5
+-o-oo
+5 1
+--ooo
+5 2
+--ooo
+5 3
+--ooo
+5 4
+--ooo
+5 5
+--ooo
+5 1
+ooooo
+5 2
+ooooo
+5 3
+ooooo
+5 4
+ooooo
+5 5
+ooooo
+6 1
+-oo-o-
+6 2
+-oo-o-
+6 3
+-oo-o-
+6 4
+-oo-o-
+6 5
+-oo-o-
+6 6
+-oo-o-
+6 1
+o--oo-
+6 2
+o--oo-
+6 3
+o--oo-
+6 4
+o--oo-
+6 5
+o--oo-
+6 6
+o--oo-
+6 1
+-o-oo-
+6 2
+-o-oo-
+6 3
+-o-oo-
+6 4
+-o-oo-
+6 5
+-o-oo-
+6 6
+-o-oo-
+6 1
+--ooo-
+6 2
+--ooo-
+6 3
+--ooo-
+6 4
+--ooo-
+6 5
+--ooo-
+6 6
+--ooo-
+6 1
+ooooo-
+6 2
+ooooo-
+6 3
+ooooo-
+6 4
+ooooo-
+6 5
+ooooo-
+6 6
+ooooo-
+6 1
+-----o
+6 2
+-----o
+6 3
+-----o
+6 4
+-----o
+6 5
+-----o
+6 6
+-----o
+6 1
+oo---o
+6 2
+oo---o
+6 3
+oo---o
+6 4
+oo---o
+6 5
+oo---o
+6 6
+oo---o
+6 1
+o-o--o
+6 2
+o-o--o
+6 3
+o-o--o
+6 4
+o-o--o
+6 5
+o-o--o
+6 6
+o-o--o
+6 1
+-oo--o
+6 2
+-oo--o
+6 3
+-oo--o
+6 4
+-oo--o
+6 5
+-oo--o
+6 6
+-oo--o
+6 1
+o--o-o
+6 2
+o--o-o
+6 3
+o--o-o
+6 4
+o--o-o
+6 5
+o--o-o
+6 6
+o--o-o
+6 1
+-o-o-o
+6 2
+-o-o-o
+6 3
+-o-o-o
+6 4
+-o-o-o
+6 5
+-o-o-o
+6 6
+-o-o-o
+6 1
+--oo-o
+6 2
+--oo-o
+6 3
+--oo-o
+6 4
+--oo-o
+6 5
+--oo-o
+6 6
+--oo-o
+6 1
+oooo-o
+6 2
+oooo-o
+6 3
+oooo-o

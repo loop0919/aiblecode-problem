@@ -1,0 +1,6 @@
+problem:
+  title: 中島くんコントロール in 迷路 # タイトル
+  level: 4 # 難易度[1から5までの整数]
+  judge: special
+  time_limit: 2.0 # 制限時間[sec]
+  memory_limit: 256 # 制限メモリ[MB]

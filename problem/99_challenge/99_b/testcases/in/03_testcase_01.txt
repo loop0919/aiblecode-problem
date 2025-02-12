@@ -1,0 +1,201 @@
+100
+6 1
+-ooooo
+6 2
+-ooooo
+6 3
+-ooooo
+6 4
+-ooooo
+6 5
+-ooooo
+6 6
+-ooooo
+7 1
+-ooooo-
+7 2
+-ooooo-
+7 3
+-ooooo-
+7 4
+-ooooo-
+7 5
+-ooooo-
+7 6
+-ooooo-
+7 7
+-ooooo-
+7 1
+------o
+7 2
+------o
+7 3
+------o
+7 4
+------o
+7 5
+------o
+7 6
+------o
+7 7
+------o
+7 1
+oo----o
+7 2
+oo----o
+7 3
+oo----o
+7 4
+oo----o
+7 5
+oo----o
+7 6
+oo----o
+7 7
+oo----o
+7 1
+o-o---o
+7 2
+o-o---o
+7 3
+o-o---o
+7 4
+o-o---o
+7 5
+o-o---o
+7 6
+o-o---o
+7 7
+o-o---o
+7 1
+-oo---o
+7 2
+-oo---o
+7 3
+-oo---o
+7 4
+-oo---o
+7 5
+-oo---o
+7 6
+-oo---o
+7 7
+-oo---o
+7 1
+o--o--o
+7 2
+o--o--o
+7 3
+o--o--o
+7 4
+o--o--o
+7 5
+o--o--o
+7 6
+o--o--o
+7 7
+o--o--o
+7 1
+-o-o--o
+7 2
+-o-o--o
+7 3
+-o-o--o
+7 4
+-o-o--o
+7 5
+-o-o--o
+7 6
+-o-o--o
+7 7
+-o-o--o
+7 1
+--oo--o
+7 2
+--oo--o
+7 3
+--oo--o
+7 4
+--oo--o
+7 5
+--oo--o
+7 6
+--oo--o
+7 7
+--oo--o
+7 1
+oooo--o
+7 2
+oooo--o
+7 3
+oooo--o
+7 4
+oooo--o
+7 5
+oooo--o
+7 6
+oooo--o
+7 7
+oooo--o
+7 1
+o---o-o
+7 2
+o---o-o
+7 3
+o---o-o
+7 4
+o---o-o
+7 5
+o---o-o
+7 6
+o---o-o
+7 7
+o---o-o
+7 1
+-o--o-o
+7 2
+-o--o-o
+7 3
+-o--o-o
+7 4
+-o--o-o
+7 5
+-o--o-o
+7 6
+-o--o-o
+7 7
+-o--o-o
+7 1
+--o-o-o
+7 2
+--o-o-o
+7 3
+--o-o-o
+7 4
+--o-o-o
+7 5
+--o-o-o
+7 6
+--o-o-o
+7 7
+--o-o-o
+7 1
+ooo-o-o
+7 2
+ooo-o-o
+7 3
+ooo-o-o
+7 4
+ooo-o-o
+7 5
+ooo-o-o
+7 6
+ooo-o-o
+7 7
+ooo-o-o
+7 1
+---oo-o
+7 2
+---oo-o
+7 3
+---oo-o

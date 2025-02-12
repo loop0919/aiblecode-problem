@@ -1,0 +1,5 @@
+problem:
+  title: 紛らわしい文字列
+  level: 2
+  time_limit: 2.0
+  memory_limit: 256
